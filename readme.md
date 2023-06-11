@@ -6,7 +6,7 @@
 
 The [well-developed](#buy-image) image-selling industry shows that specialization leads to higher growth.
 
-:bulb: Multiple specialized sites, inter-linked by a personal portfolio site.
+:bulb: Split into multiple specialized sites, inter-linked by a personal portfolio site.
 
 ## Reference
 
@@ -21,6 +21,32 @@ The [well-developed](#buy-image) image-selling industry shows that specializatio
 - [BANG BANG](https://www.bangbangforever.com/)
 - [Scott Campbell](https://www.scottcampbellstudio.com/)
 - [Ryan Ashley](https://www.ryanashley.com/)
+
+---
+
+#### ["top illustrators"](https://www.google.com/search?q=top+illustrators)
+
+- [Malika Favre](https://www.handsomefrank.com/illustrators/malika-favre)
+- [Christoph Niemann](https://www.christophniemann.com/)
+- [Jean Jullien](https://www.jeanjullien.com/)
+
+---
+
+#### ["top photographers"](https://www.google.com/search?q=top+photographers)
+
+Selected top 3 *living* photographers
+
+- [Steve McCurry](https://www.stevemccurry.com/)
+- [Annie Leibovitz](https://www.artnet.com/artists/annie-leibovitz/)
+- [Andreas Gursky](https://www.andreasgursky.com/)
+
+---
+
+#### ["top living painters"](https://www.google.com/search?q=top+living+painters)
+
+- [Cecily Brown](http://cecilybrown.com/)
+- [Jenny Saville](https://gagosian.com/artists/jenny-saville/)
+- [David Choe](https://davidchoe.com/)
 
 ---
 
@@ -62,7 +88,8 @@ The [well-developed](#buy-image) image-selling industry shows that specializatio
 
 #### ["buy photo"](https://www.google.com/search?q=buy+photo)
 
-- []() Same as above result. Positions 4-6 are:
+Same as above result. Positions 4-6 are:
+
 - [gettyimages](https://www.gettyimages.com.mx/)
 - [unsplash](https://unsplash.com/)
 - [Photocase](https://www.photocase.com/)
@@ -78,3 +105,5 @@ The [well-developed](#buy-image) image-selling industry shows that specializatio
 - [Art.com](https://www.art.com/)
 
 ---
+
+:exclamation: File likely to be split by over-arching categories soon
