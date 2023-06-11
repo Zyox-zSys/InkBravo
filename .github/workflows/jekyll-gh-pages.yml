@@ -30,15 +30,15 @@ jobs:
         uses: actions/checkout@v3
       - name: Setup Pages
         uses: actions/configure-pages@v3
-      - name: Run Emojify
-        uses: fennecdjay/emojify-docker-action@v1
-        with:
-          directory: /
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./
           destination: ./_site
+      - name: Run Emojify
+        uses: fennecdjay/emojify-docker-action@v1
+        with:
+          directory: /
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 
