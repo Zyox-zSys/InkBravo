@@ -1,5 +1,3 @@
-> View this Markdown rendered by pasting it into a [Markdown editor/viewer](https://stackedit.io/app#)
-
 # Design
 
 ---
@@ -22,7 +20,7 @@ The [well-developed](#buy-image) image-selling industry shows that specializatio
 
 ---
 
-#### :japanese_ogre: ["top tatoo artists"](https://www.google.com/search?q=top+tatoo+artists)
+#### ["top tatoo artists"](https://www.google.com/search?q=top+tatoo+artists)
 
 - [BANG BANG](https://www.bangbangforever.com/)
 - [Scott Campbell](https://www.scottcampbellstudio.com/)
@@ -30,13 +28,13 @@ The [well-developed](#buy-image) image-selling industry shows that specializatio
 
 ---
 
-#### :dragon: ["buy tattoo"](https://www.google.com/search?q=buy+tattoo)
+#### ["buy tattoo"](https://www.google.com/search?q=buy+tattoo)
 
 - [INKBOX](https://inkbox.com/)
 - [TATTLY](https://tattly.com/)
 - [KingPin](https://www.kingpintattoosupply.com/)
 
-#### :watch: ["schedule tattoo"](https://www.google.com/search?q=schedule+tattoo)
+#### ["schedule tattoo"](https://www.google.com/search?q=schedule+tattoo)
 
 - [TATTOODO](https://www.tattoodo.com/)
 - [Booksy tattoo shops](https://booksy.com/en-us/s/tattoo-shops) *unspecialized booking platform*
@@ -50,7 +48,7 @@ The [well-developed](#buy-image) image-selling industry shows that specializatio
 
 ---
 
-#### :pencil: ["buy drawing"](https://www.google.com/search?q=buy+drawing)
+#### ["buy drawing"](https://www.google.com/search?q=buy+drawing)
 
 - [SINGULART](https://www.singulart.com/)
 - [Artfinder](https://www.artfinder.com/)
@@ -58,7 +56,7 @@ The [well-developed](#buy-image) image-selling industry shows that specializatio
 
 ---
 
-#### :city_sunset: ["buy image"](https://www.google.com/search?q=buy+image)
+#### ["buy image"](https://www.google.com/search?q=buy+image)
 
 - [iStock](https://www.istockphoto.com/)
 - [shutterstock](https://www.shutterstock.com/)
@@ -66,7 +64,7 @@ The [well-developed](#buy-image) image-selling industry shows that specializatio
 
 ---
 
-#### :camera: ["buy photo"](https://www.google.com/search?q=buy+photo)
+#### ["buy photo"](https://www.google.com/search?q=buy+photo)
 
 - []() Same as above result. Positions 4-6 are:
 - [gettyimages](https://www.gettyimages.com.mx/)
@@ -75,7 +73,7 @@ The [well-developed](#buy-image) image-selling industry shows that specializatio
 
 ---
 
-#### :art: ["buy painting"](https://www.google.com/search?q=buy+painting)
+#### ["buy painting"](https://www.google.com/search?q=buy+painting)
 
 - [SAATCHI ART](https://www.saatchiart.com/)
 - Artfinder
