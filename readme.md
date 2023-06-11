@@ -1,7 +1,5 @@
 # Design
 
----
-
 ## Considerations
 
 ### Mixed vs specialized websites
@@ -9,8 +7,6 @@
 The [well-developed](#buy-image) image-selling industry shows that specialization leads to higher growth.
 
 :bulb: Multiple specialized sites, inter-linked by a personal portfolio site.
-
----
 
 ## Reference
 
